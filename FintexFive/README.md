@@ -1,0 +1,7 @@
+# FintexFive
+
+Descripcion: fintex es una empresa de venta y union de bienes raices que lo que constituye en el financiamiento de inversionistas para proyectos de constructuras conocidas creando un modelo de negocios unico e innovador agarrando a la constructora que tenga mejor prestigio, y hablando en pocas palabras lo que hacemos es financiar proyectos para luego cobrar una comision y regresar la inversion con un porcentaje de ganancia, donde nos encargamos de unir al modelo planeado y a la constructura solicitada para llevarlo acabo.
+
+Objetivo: Es Crear una pagina con el proposito de construir un imperio inmobiliario financiado por terceros, conteniendo modelos con los cuales es facil de interectuar e invertir facilmente, donde los usuarios se encargaran de subir sus modelos y los inversionistas los revisaran para ver si son viales para invertir y las constructuras encargadas de llevar a cabo el modelo por el cual se hallan seleccionado seran solicitadas atra vez de la pagina cobrando por que esten ahi una cantidad mensual para permanecer en la pagina y ser solicitada.
+
+Modelo De Negocios: Basicamente nosotros vamos a cobrar para que las constructoras y cuando un proyecto sea finacnciado cobraremos el 15% del total del monto del proyecto solo pr a union que les proporcionamos y l pago se realizara antes de empezar el proyecto para evitar malos entendidos y confuciones a la hora de la compra y venta.
